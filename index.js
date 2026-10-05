@@ -8,3 +8,5 @@ function Hello() {
 function Hello2() {
     console.log("Hello i am in production environment!");
 }
+function Hello3() {}
+console.log("Hello i am in development environment!");
