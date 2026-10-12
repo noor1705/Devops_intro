@@ -14,3 +14,9 @@ console.log("Hello i am in development environment!");
 function week04(){
   console.log("This is week 04 of the course");
 }
+
+function week05() {
+    console.log("I am learning Git branching");
+}
+
+week05();
