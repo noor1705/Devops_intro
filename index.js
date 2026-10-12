@@ -10,3 +10,7 @@ function Hello2() {
 }
 function Hello3() {}
 console.log("Hello i am in development environment!");
+
+function week04(){
+  console.log("This is week 04 of the course");
+}
